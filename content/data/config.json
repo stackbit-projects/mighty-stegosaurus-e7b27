@@ -7,7 +7,7 @@
         "tagline": "Forever Outcomes",
         "logo_img": "images/logo.svg",
         "background_img": "images/header-bg.jpg",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
